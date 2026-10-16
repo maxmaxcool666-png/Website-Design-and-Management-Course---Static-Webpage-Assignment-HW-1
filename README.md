@@ -1,9 +1,9 @@
 
 ### **作業名稱：靜態網頁設計（HW-1）**
 
-## 完成網頁連結
+### 完成網頁連結
 
-[作業]([https://maxmaxcool666-png.github.io/codex-learning/](https://maxmaxcool666-png.github.io/Website-Design-and-Management-Course---Static-Webpage-Assignment-HW-1/))
+[網頁作業](https://maxmaxcool666-png.github.io/Website-Design-and-Management-Course---Static-Webpage-Assignment-HW-1/)
 
 ### **教師評語**
 
